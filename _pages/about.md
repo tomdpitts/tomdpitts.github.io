@@ -27,6 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+I am a researcher in AI, primarily working with the Data Science team at University of Technology Sydney (UTS) under Dr Bin Liang. My research is currently focussed across a few domains: ML-based Earth Observation (Carbon sequestration); AR and Diffusion-based NLP; and novel Transformer-based Time Series Anomaly Detection architectures.
+
+My professional background is in software engineering and product in the AI space - most recently as CPO at Sydney-based Lumachain, where we developed a platform focussed on Computer Vision solutions for global blue chip food and beverage companies. My academic background is in Mathematics and Philosophy at King's College London.
+
 <!-- I am a researcher working with a team at the Data Science Institute at University of Technology Sydney (UTS). My current projects focus on LLMs in Time Series Anomaly Detection, Earth Observation, and Natural Language Processing.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
