@@ -418,16 +418,20 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-researcher-at-uts-data-science-team-under-dr-bin-liang",
+          title: 'Researcher at UTS Data Science team under Dr Bin Liang',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-former-cpo-at-forbes-cloud-100-ai-startup-lumachain-alongside-chief-ai-officer-dr-zongjian-zhang",
+          title: 'Former CPO at Forbes Cloud 100 AI Startup Lumachain, alongside Chief AI Officer...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-software-engineer-net-c-python-swift-java-kotlin-sql-and-more",
+          title: 'Software Engineer: .NET/C#, Python, Swift, Java/Kotlin, SQL and more',
+          description: "",
+          section: "News",},{id: "news-mathematics-amp-amp-philosophy-king-s-college-london-first-class-honours",
+          title: 'Mathematics &amp;amp;amp; Philosophy, King’s College London - First Class Honours',
+          description: "",
+          section: "News",},{id: "news-stanford-xcs236-deep-generative-models",
+          title: 'Stanford XCS236 - Deep Generative Models',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
