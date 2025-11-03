@@ -15,13 +15,13 @@ footer_text: >
   © 2025 Tom Pitts · Built with <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> and 
   <a href="https://github.com/alshedivat/al-folio" target="_blank">al-folio</a>. Hosted on 
   <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  
+
 keywords: Tom Pitts, AI, machine learning, time series, Lumachain, research
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ♠️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://tomdpitts.github.io # the base hostname & protocol for your site
-baseurl: 
+baseurl:
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button

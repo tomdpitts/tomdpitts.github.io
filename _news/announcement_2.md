@@ -9,8 +9,6 @@ logo: /assets/img/logos/luma.png
 
 Former CPO at Forbes Cloud 100 AI Startup <a href="https://lumachain.io">Lumachain</a>, alongside Chief AI Officer Dr Zongjian Zhang
 
-
-
 <!-- Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
 
 ---
