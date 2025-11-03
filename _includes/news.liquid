@@ -7,6 +7,60 @@
         style="max-height: 60vw"
       {% endif %}
     >
+      <table class="table table-sm table-borderless align-middle">
+        {% assign news = site.news | reverse %}
+        {% if include.limit and page.announcements.limit %}
+          {% assign news_limit = page.announcements.limit %}
+        {% else %}
+          {% assign news_limit = news_size %}
+        {% endif %}
+
+        {% for item in news limit: news_limit %}
+          <tr class="news-row">
+            <th scope="row" style="width: 20%">
+              {{ item.date | date: '%b %d, %Y' }}
+            </th>
+            <td>
+              <div class="news-entry">
+                {% if item.logo %}
+                  <img
+                    src="{{ item.logo | relative_url }}"
+                    alt="{{ item.title }} logo"
+                    class="news-logo"
+                  />
+                {% endif %}
+
+                <div class="news-text">
+                  {% if item.inline %}
+                    {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
+                  {% else %}
+                    <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+                    {% if item.excerpt %}
+                      <p class="news-excerpt">{{ item.excerpt | strip_html }}</p>
+                    {% endif %}
+                  {% endif %}
+                </div>
+              </div>
+            </td>
+          </tr>
+        {% endfor %}
+      </table>
+    </div>
+  {% else %}
+    <p>No news so far...</p>
+  {% endif %}
+</div>
+
+
+{% comment %} <div class="news">
+  {% if site.news != blank %}
+    {% assign news_size = site.news | size %}
+    <div
+      class="table-responsive"
+      {% if include.limit and page.announcements.scrollable and news_size > 3 %}
+        style="max-height: 60vw"
+      {% endif %}
+    >
       <table class="table table-sm table-borderless">
         {% assign news = site.news | reverse %}
         {% if include.limit and page.announcements.limit %}
@@ -31,4 +85,4 @@
   {% else %}
     <p>No news so far...</p>
   {% endif %}
-</div>
+</div> {% endcomment %}
