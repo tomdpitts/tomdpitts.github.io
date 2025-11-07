@@ -7,4 +7,4 @@ related_posts: false
 logo: /assets/img/logos/luma.png
 ---
 
-Former CPO at Forbes Cloud 100 AI Startup <a href="https://lumachain.io">Lumachain</a>, alongside Chief AI Officer Dr Zongjian Zhang
+CPO at Forbes Cloud 100 AI Startup <a href="https://lumachain.io">Lumachain</a>, alongside Chief AI Officer Dr Zongjian Zhang
