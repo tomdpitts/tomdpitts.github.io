@@ -1,24 +1,24 @@
 /* --- Timeline / News logos --- */
 .news-entry {
   display: flex;
-  align-items: flex-start;
+  align-items: center;
   gap: 0.75rem;
 }
 
 .news-logo {
-  width: 36px !important;
-  height: 36px !important;
-  max-width: 36px !important;
-  max-height: 36px !important;
+  width: 75px !important;
+  height: 75px !important;
   object-fit: contain;
   border-radius: 6px;
   flex-shrink: 0;
   margin-top: 2px;
   opacity: 0.9;
+  margin-right: 10px;
 }
 
 .news-text {
   flex: 1;
+  text-align: left;
 }
 
 .news-excerpt {
@@ -29,4 +29,18 @@
 
 .news-row th {
   white-space: nowrap;
+}
+
+.social-icons a i {
+  width: 24px;
+  height: 24px;
+  stroke-width: 1.6;
+  color: var(--text-muted);
+  vertical-align: middle;
+  transition: color 0.2s ease, transform 0.2s ease;
+}
+
+.social-icons a:hover i {
+  color: var(--link-color);
+  transform: translateY(-2px);
 }

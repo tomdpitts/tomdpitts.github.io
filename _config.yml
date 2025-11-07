@@ -6,15 +6,12 @@ title: Tom D. Pitts # the website title (if blank, full name will be used instea
 first_name: Tom
 middle_name: D.
 last_name: Pitts
-contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+contact_note: > 
+  
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Chief Product Officer at Lumachain. Exploring AI, time-series modeling, and remote sensing.
-  Focused on the intersection of applied machine learning and real-world impact.
+  Exploring AI, time-series modeling, and remote sensing.
 footer_text: >
-  © 2025 Tom Pitts · Built with <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> and 
-  <a href="https://github.com/alshedivat/al-folio" target="_blank">al-folio</a>. Hosted on 
-  <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+  © 2025 Tom Pitts
 
 keywords: Tom Pitts, AI, machine learning, time series, Lumachain, research
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
@@ -50,7 +47,7 @@ repo_trophies:
 
 navbar_fixed: true
 footer_fixed: true
-search_enabled: true
+search_enabled: false
 socials_in_search: true
 posts_in_search: true
 bib_search: true
@@ -227,6 +224,9 @@ defaults:
 
 sass:
   style: compressed
+  # load_paths:
+  #   - _sass
+  #   - assets/css
 
 # -----------------------------------------------------------------------------
 # Jekyll Minifier
