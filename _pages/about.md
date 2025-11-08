@@ -35,7 +35,7 @@ My professional background is in software engineering and product in the AI spac
 
 Modifying and improving architectures and algorithms in the field of:
 
-- CV: Mask-RCNN, SegFormer, Detectron2 pipelines
+- Remote Sensing & CV: Mask-RCNN, SegFormer, Detectron2 pipelines
 - NLP: hybrid AR & Diffusion-based generative models
 
 <!-- I am a researcher working with a team at the Data Science Institute at University of Technology Sydney (UTS). My current projects focus on LLMs in Time Series Anomaly Detection, Earth Observation, and Natural Language Processing.
