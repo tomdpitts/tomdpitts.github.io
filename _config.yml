@@ -9,9 +9,9 @@ last_name: Pitts
 contact_note: > 
   
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Exploring AI, time-series modeling, and remote sensing.
+  Tom Pitts's personal website
 footer_text: >
-  © 2025 Tom Pitts
+  
 
 keywords: Tom Pitts, AI, machine learning, time series, Lumachain, research
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
