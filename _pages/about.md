@@ -27,9 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a researcher in AI, primarily working with the Data Science team at University of Technology Sydney (UTS) under Dr Bin Liang. My research is currently focussed across a few domains: ML-based Earth Observation (Carbon sequestration); AR and Diffusion-based NLP; and novel Transformer-based Time Series Anomaly Detection architectures.
+I am a researcher in AI, primarily working with the Data Science team at University of Technology Sydney (UTS) under Dr Bin Liang. My research is currently focussed on a few domains: ML-based Earth Observation (particularly in Carbon sequestration); AR and Diffusion-based NLP; and novel Transformer-based Time Series Anomaly Detection architectures.
 
-My professional background is in software engineering and product in the AI space - most recently as CPO at Sydney-based Lumachain, where we developed an end-to-end Traceability and Computer Vision AI platform for global blue chip food and beverage companies.
+My professional background is in software engineering and product in the AI space - most recently as Chief Product Officer at Sydney-based [Lumachain](https://lumachain.io), developing an end-to-end Computer Vision AI platform for our global blue chip food and beverage clients.
 
 ## news
 
