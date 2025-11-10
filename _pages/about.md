@@ -29,11 +29,11 @@ latest_posts:
 
 I am a researcher in AI, primarily working with the Data Science team at University of Technology Sydney (UTS) under Dr Bin Liang. My research is currently focussed across a few domains: ML-based Earth Observation (Carbon sequestration); AR and Diffusion-based NLP; and novel Transformer-based Time Series Anomaly Detection architectures.
 
-My professional background is in software engineering and product in the AI space - most recently as CPO at Sydney-based Lumachain, where we developed an end-to-end Traceability and Computer Vision AI platform for global blue chip food and beverage companies. My academic background is in Mathematics and Philosophy at King's College London.
+My professional background is in software engineering and product in the AI space - most recently as CPO at Sydney-based Lumachain, where we developed an end-to-end Traceability and Computer Vision AI platform for global blue chip food and beverage companies.
 
 ## news
 
-12/2025, have been invited to Session Chair at [17th Asian Conference on Machine Learning](https://www.acml-conf.org/2025/) on 09-12 December, Taipei.
+- 12/2025 - have been invited to Session Chair at [17th Asian Conference on Machine Learning](https://www.acml-conf.org/2025/) on 09-12 December 2025, Taipei.
 
 ## research interests
 
