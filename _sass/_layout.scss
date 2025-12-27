@@ -59,3 +59,14 @@ body.sticky-bottom-footer {
 *****************************************************************************/
 
 // TODO: redefine projects layout.
+
+/******************************************************************************
+ * News
+ ******************************************************************************/
+.news-logo {
+  background-color: white;
+  padding: 5px;
+  border-radius: 5px;
+  width: 100%; // Ensure it fits the container if needed, though usually controlled by parent
+  height: auto;
+}
