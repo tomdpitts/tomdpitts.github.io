@@ -27,9 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a research assistant in ML/AI, primarily working with the Data Science team at University of Technology Sydney (UTS) under Dr Bin Liang. My research is currently focussed on a few domains: DL-based Earth Observation (particularly in Carbon sequestration); AR and Diffusion-based NLP; and novel Transformer-based Time Series Anomaly Detection architectures.
+I am a research assistant in ML/AI, primarily working with the Data Science Institute at University of Technology Sydney (UTS) under Dr Bin Liang. My research is currently focussed on a few domains: Remote Sensing & Earth Observation for Tree Canopy Detection (Carbon sequestration & environmental monitoring); AR and Diffusion-based NLP; and a survey on Transformer-based Time Series Anomaly Detection architectures.
 
-My professional background is in software engineering and product in the AI space - most recently as Chief Product Officer at Sydney-based [Lumachain](https://lumachain.io), developing an end-to-end Computer Vision AI platform for our global blue chip food and beverage clients.
+My professional background is in software engineering and product in the AI space - most recently as Chief Product Officer at Sydney-based [Lumachain](https://lumachain.io), developing an end-to-end Computer Vision AI platform for global blue chip food and beverage clients.
 
 ## news
 
@@ -37,10 +37,10 @@ My professional background is in software engineering and product in the AI spac
 
 ## research interests
 
-Modifying and improving architectures and algorithms in the field of:
-
-- Remote Sensing & CV: Mask-RCNN, SegFormer, Detectron2 pipelines
-- NLP: hybrid AR & Diffusion-based generative models
+Currently focussed on: 
+- Remote Sensing & CV: Faster-RCNN, ViT, DeepForest, Vision-Language Models & semantic reasoning, Heuristic vs Unguided learning, multimodal e.g. hyperspectral
+- NLP: hybrid AR & Diffusion-based generative models i.e. denoising
+- Neuro-AI: noisy dynamical systems, loss functions, very interested in unguided emergent behaviour
 
 <!-- I am a researcher working with a team at the Data Science Institute at University of Technology Sydney (UTS). My current projects focus on LLMs in Time Series Anomaly Detection, Earth Observation, and Natural Language Processing.
 

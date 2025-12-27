@@ -6,4 +6,4 @@ related_posts: false
 logo: /assets/img/logos/dotnet.png
 ---
 
-Software Engineer: .NET/C#, Python, Swift, Java/Kotlin, SQL and more
+Software Engineer: .NET/C#, Python, Swift, Java/Kotlin, Azure cloud, CI/CD devops, SQL... 
