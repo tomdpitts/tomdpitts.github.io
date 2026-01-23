@@ -33,7 +33,8 @@ My professional background is in software engineering and product in the AI spac
 
 ## news
 
-- 12/2025 - have been invited to Session Chair at [17th Asian Conference on Machine Learning (ACML)](https://www.acml-conf.org/2025/) on 09-12 December 2025, Taipei.
+- 01/2026 - passed NVIDIA Certified Associate: AI Infrastructure and Operations exam
+- 12/2025 - invited to Session Chair at [17th Asian Conference on Machine Learning (ACML)](https://www.acml-conf.org/2025/) on 09-12 December 2025, Taipei.
 
 ## research interests
 
