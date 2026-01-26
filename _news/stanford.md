@@ -6,4 +6,4 @@ related_posts: false
 logo: /assets/img/logos/stanford3.jpg
 ---
 
-Stanford XCS236 - Deep Generative Models: currently enrolled, completion by Apr 2026
+Stanford XCS236 - Deep Generative Models: course in progress, completion by Apr 2026
