@@ -44,6 +44,10 @@ Currently focussed on:
 - NLP: hybrid AR & Diffusion-based generative models i.e. denoising
 - Neuro-AI: noisy dynamical systems, loss functions, very interested in unguided emergent behaviour
 
+## papers
+
+{% bibliography --query @*[selected=true] %}
+
 <!-- I am a researcher working with a team at the Data Science Institute at University of Technology Sydney (UTS). My current projects focus on LLMs in Time Series Anomaly Detection, Earth Observation, and Natural Language Processing.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
