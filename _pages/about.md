@@ -46,7 +46,9 @@ Currently focussed on:
 
 ## papers
 
-{% bibliography --query @*[selected=true] %}
+**[A Survey of Large Language Models for Time Series Anomaly Detection: Methods, Challenges, and Future Directions](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6033215)**  
+Kunqi Li, Thomas Pitts, Bin Liang, Chenya Huang, Yuxi Lu  
+*SSRN Preprint*, Jan 2026
 
 <!-- I am a researcher working with a team at the Data Science Institute at University of Technology Sydney (UTS). My current projects focus on LLMs in Time Series Anomaly Detection, Earth Observation, and Natural Language Processing.
 
