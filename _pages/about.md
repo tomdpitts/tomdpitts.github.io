@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a research assistant in ML/AI, primarily working with the Data Science Institute at University of Technology Sydney (UTS) under Dr Bin Liang. My research is currently focussed on: Remote Sensing & Earth Observation for Tree Canopy Detection (Carbon sequestration & environmental monitoring); AR and Diffusion-based NLP; and a survey on Transformer-based Time Series Anomaly Detection architectures.
+I am a researcher in ML/AI, primarily working with the Data Science Institute at University of Technology Sydney (UTS) under Dr Bin Liang. My research is currently focussed on: Remote Sensing & Earth Observation for Tree Canopy Detection (Carbon sequestration & environmental monitoring); AR and Diffusion-based NLP; and a survey on Transformer-based Time Series Anomaly Detection architectures.
 
 My professional background is in software engineering and product in the AI space - most recently as Chief Product Officer at Sydney-based [Lumachain](https://lumachain.io), developing an end-to-end Computer Vision AI platform for global blue chip food and beverage clients.
 
