@@ -6,4 +6,4 @@ related_posts: false
 logo: /assets/img/logos/UTS.png
 ---
 
-Research Assistant at UTS Data Science team under Dr Bin Liang
+Honorary Fellow, UTS Data Science Institute
