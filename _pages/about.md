@@ -34,7 +34,7 @@ My professional background is in software engineering and product in the AI spac
 ## news
 
 - 09/2026 - paper preprint [Latent Commonality Expectation-Maximisation for Box-supervised Tree Crown Instance Segmentation](https://arxiv.org/pdf/2609.26549) available on ArXiv
-- 06/2026 - Honorary Appointment as Industry/Professional Fellow at the University of Technology Sydney (Data Science Institute)
+- 06/2026 - Honorary appointment as Industry/Professional Fellow at the University of Technology Sydney (Data Science Institute)
 - 04/2026 - completed Stanford module XCS236 - Deep Generative Models
 - 01/2026 - paper preprint [A Survey of Large Language Models for Time Series Anomaly Detection](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6033215) available on SSRN 
 - 01/2026 - qualified as NVIDIA Certified Associate: AI Infrastructure and Operations
