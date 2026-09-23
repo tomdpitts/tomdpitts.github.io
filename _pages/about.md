@@ -27,12 +27,15 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a researcher in ML/AI, primarily working with the Data Science Institute at University of Technology Sydney (UTS) under Dr Bin Liang. My research is currently focussed on: Remote Sensing & Earth Observation for Tree Canopy Detection (Carbon sequestration & environmental monitoring); AR and Diffusion-based NLP; and a survey on Transformer-based Time Series Anomaly Detection architectures.
+I am a Professional/Industry Fellow in the Data Science Institute at University of Technology Sydney (UTS), primarily working in Dr Bin Liang's research group. My research is currently focussed on: Remote Sensing & Earth Observation for Tree Canopy Detection (Carbon sequestration & environmental monitoring); World Models for Remote Sensing (forecasting/counterfactual); and Transformer-based Time Series Anomaly Detection architectures.
 
 My professional background is in software engineering and product in the AI space - most recently as Chief Product Officer at Sydney-based [Lumachain](https://lumachain.io), developing an end-to-end Computer Vision AI platform for global blue chip food and beverage clients.
 
 ## news
 
+- 09/2026 - paper preprint [Latent Commonality Expectation-Maximisation for Box-supervised Tree Crown Instance Segmentation](https://arxiv.org/pdf/2609.26549) available on ArXiv
+- 06/2026 - Honorary Appointment as Industry/Professional Fellow at the University of Technology Sydney (Data Science Institute)
+- 04/2026 - completed Stanford module XCS236 - Deep Generative Models
 - 01/2026 - paper preprint [A Survey of Large Language Models for Time Series Anomaly Detection](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6033215) available on SSRN 
 - 01/2026 - qualified as NVIDIA Certified Associate: AI Infrastructure and Operations
 - 12/2025 - invited to Session Chair at [17th Asian Conference on Machine Learning (ACML)](https://www.acml-conf.org/2025/) on 09-12 December 2025, Taipei.
@@ -40,11 +43,19 @@ My professional background is in software engineering and product in the AI spac
 ## research interests
 
 Currently focussed on: 
-- Remote Sensing & CV: Faster-RCNN, ViT, DeepForest, Vision-Language Models & semantic reasoning, Heuristic vs Unguided learning, multimodal e.g. hyperspectral
-- NLP: hybrid AR & Diffusion-based generative models i.e. denoising
+- Remote Sensing & Computer Vision: vision foundation models, weakly-supervised instance segmentation, ViTs, multimodal & hyperspectral
+- World models for the environment: dynamical land surface models, digital twins
 - Neuro-AI: noisy dynamical systems, loss functions, very interested in unguided emergent behaviour
 
 ## papers
+
+**Black–Scholes for the Land: Modelling Savannah Response to Rain as a Dynamic World Model**  
+Thomas Pitts  
+*arXiv Preprint (pending)*, Sep 2026
+
+**[Latent Commonality Expectation-Maximisation for Box-supervised Tree Crown Instance Segmentation](https://arxiv.org/pdf/2609.26549)**  
+Thomas Pitts, Kunqi Li, Bin Liang  
+*arXiv Preprint*, Sep 2026
 
 **[A Survey of Large Language Models for Time Series Anomaly Detection: Methods, Challenges, and Future Directions](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6033215)**  
 Kunqi Li, Thomas Pitts, Bin Liang, Chenya Huang, Yuxi Lu  
