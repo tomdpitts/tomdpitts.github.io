@@ -6,4 +6,4 @@ related_posts: false
 logo: /assets/img/logos/UTS.png
 ---
 
-Honorary Fellow, UTS Data Science Institute
+Fellow, UTS Data Science Institute
