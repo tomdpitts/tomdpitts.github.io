@@ -33,6 +33,7 @@ My professional background is in software engineering and product in the AI spac
 
 ## news
 
+- 09/2026 - paper preprint [Black-Scholes for the land: modelling savannah response to rain as a dynamic world model](https://arxiv.org/abs/2610.03744v1)
 - 09/2026 - paper preprint [Latent Commonality Expectation-Maximisation for Box-supervised Tree Crown Instance Segmentation](https://arxiv.org/pdf/2609.26549) available on ArXiv
 - 06/2026 - Honorary appointment as Industry/Professional Fellow at the University of Technology Sydney (Data Science Institute)
 - 04/2026 - completed Stanford module XCS236 - Deep Generative Models
@@ -49,9 +50,9 @@ Currently focussed on:
 
 ## papers
 
-**Black–Scholes for the Land: Modelling Savannah Response to Rain as a Dynamic World Model**  
-Thomas Pitts  
-*arXiv Preprint (pending)*, Sep 2026
+**[Black–Scholes for the Land: Modelling Savannah Response to Rain as a Dynamic World Model](https://arxiv.org/abs/2610.03744v1)**  
+Thomas Pitts
+*arXiv Preprint*, Sep 2026
 
 **[Latent Commonality Expectation-Maximisation for Box-supervised Tree Crown Instance Segmentation](https://arxiv.org/pdf/2609.26549)**  
 Thomas Pitts, Kunqi Li, Bin Liang  
